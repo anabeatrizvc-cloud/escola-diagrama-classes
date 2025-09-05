@@ -15,6 +15,6 @@ Este repositório contém o Diagrama de Classes representando o contexto de uma 
 
 Abaixo está o diagrama de classes feito em sala de aula:
 
-![Diagrama de Classes](diagrama-classes.pdf)
+[Diagrama de Classes](diagrama-classes.pdf)
 
 ---
